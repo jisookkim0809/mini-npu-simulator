@@ -1,0 +1,1 @@
+"""Mini NPU Simulator - MAC 연산으로 패턴(Cross / X)을 판정하는 콘솔 프로그램"""
